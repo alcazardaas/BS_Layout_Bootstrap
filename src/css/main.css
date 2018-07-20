@@ -1,0 +1,22 @@
+p {
+    padding-top: 2%; 
+}
+
+.nav-menu {
+    float: right;
+}
+
+.info-box,
+.large-info-box {
+    border: ridge #000;
+}
+
+.large-info-box {
+}
+
+.footer {
+    background-color: #000;
+    text-align: center;
+    color: #fff;
+    min-height: 50px;
+}
